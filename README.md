@@ -152,7 +152,7 @@ Create a notebook "elastic-rag" or something like that. We will use it for our e
 First, we need to download the docs:
 
 ```bash
-wget https://github.com/alexeygrigorev/llm-rag-workshop/raw/main/notebooks/documents.json
+!wget https://github.com/alexeygrigorev/llm-rag-workshop/raw/main/notebooks/documents.json
 ```
 
 Let's load the documents
