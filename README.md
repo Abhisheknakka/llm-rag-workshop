@@ -147,7 +147,7 @@ RAG consists of multiple components, and the first is R - "retrieval". For retri
 
 ## Searching in the documents
 
-Create a nootebook "elastic-rag" or something like that. We will use it for our experiments
+Create a notebook "elastic-rag" or something like that. We will use it for our experiments
 
 First, we need to download the docs:
 
